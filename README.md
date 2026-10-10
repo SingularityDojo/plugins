@@ -14,4 +14,4 @@ codex plugin marketplace add SingularityDojo/plugins
 codex plugin add dojo@singularity-dojo
 ```
 
-入れたら Codex を起動し直し、`/skills` に出ることを確かめます。くわしくは準備講座 0-3 を見てください。
+入れたら `/clear` で新しいセッションにし、`$dojo` と打って候補に `plan-md (dojo)`・`report (dojo)` が出ることを確かめます。くわしくは準備講座 0-3 を見てください。

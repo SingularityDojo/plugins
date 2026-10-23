@@ -1,6 +1,6 @@
 {
   "name": "dojo",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Singularity Dojo の練習用スキル（plan-md・report）",
   "author": { "name": "Singularity Dojo", "url": "https://singularity-dojo.vercel.app" },
   "homepage": "https://singularity-dojo.vercel.app",
